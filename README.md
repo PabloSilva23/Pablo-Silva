@@ -25,4 +25,3 @@
 <img width="480em" src="https://github-readme-stats.vercel.app/api?username=PabloSilva&show_icons=true&theme=vision-friendly-dark" alt="Pablo Silva stats"/>
 <img width="474em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSilva23&layout=compact&theme=vision-friendly-dark" alt="Pablo Silva most languages"/>
 </p>
-
