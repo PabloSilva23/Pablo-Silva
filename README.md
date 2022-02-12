@@ -5,7 +5,7 @@
 
 - :man_student: Acadêmico: Analise de sistemas(ADS) pela UNINTER.
 
-- :woman_technologist: Atualmente aprimorando meus conhecimentos em projetos próprios [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
+- :woman_technologist: Atualmente aprimorando meus conhecimentos em projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
 - :sparkles: "Faça o melhor código possível, dentro do seu conhecimento" - Autoria minha.
 
@@ -14,10 +14,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=f699cd)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSilva23&layout=compact)](https://github.com/PabloSilva23)
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSilva23&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+
