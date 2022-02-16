@@ -5,6 +5,10 @@
 
 - :man_student: Acadêmico: Analise de sistemas(ADS) pela UNINTER.
 
+- :computer: Pretendo atuar na área de desenvolvimento web.
+
+- :books: Atualmente estudando javascript e responsividade css.
+
 - :woman_technologist: Atualmente aprimorando meus conhecimentos em projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
 - :sparkles: "Faça o melhor código possível, dentro do seu conhecimento" - Autoria minha.
