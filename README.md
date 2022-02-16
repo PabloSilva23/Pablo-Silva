@@ -9,7 +9,7 @@
 
 - :books: Atualmente estudando javascript e responsividade css.
 
-- :woman_technologist: Atualmente aprimorando meus conhecimentos em projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
+- :woman_technologist: Pondo em prática nos meus projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
 - :sparkles: "Faça o melhor código possível, dentro do seu conhecimento" - Autoria minha.
 
