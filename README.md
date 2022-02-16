@@ -24,6 +24,6 @@
 
 <p display="flex">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=PabloSilva&show_icons=true&theme=vision-friendly-dark" alt="Pablo Silva stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSilva23&layout=compact&theme=vision-friendly-dark" alt="Pablo Silva most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSilva23&layout=compact&theme=vision-friendly-dark" alt="Pablo Silva most languages"/>
 </p>
 
