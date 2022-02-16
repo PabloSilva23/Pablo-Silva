@@ -11,7 +11,6 @@
 
 - :woman_technologist: Pondo em prática nos meus projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
-- :sparkles: "Faça o melhor código possível, dentro do seu conhecimento" - Autoria minha.
 
 ## 🛠 &nbsp;Tech Stack
 
