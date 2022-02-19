@@ -1,13 +1,13 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Pablo Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PabloSilva23&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programador junior buscando a primeira oportunidade na área de programação. 🚀
+- 🔥 **Programador junior** buscando a primeira oportunidade na área de programação. 🚀
 
 - :man_student: Acadêmico: Analise de sistemas(ADS) pela UNINTER.
 
-- :computer: Pretendo atuar na área de desenvolvimento web.
+- :computer: Pretendo atuar na área de **desenvolvimento web**.
 
-- :books: Atualmente estudando javascript e responsividade css.
+- :books: Atualmente estudando **javascript** e **responsividade**.
 
 - :woman_technologist: Pondo em prática nos meus projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
