@@ -5,7 +5,7 @@
 
 - :man_student: Acadêmico: Analise de sistemas(ADS) pela UNINTER.
 
-- :computer: Pretendo atuar na área de **desenvolvimento web**.
+- :computer: Pretendo atuar na área de **desenvolvimento web Front-end**.
 
 - :books: Atualmente estudando **javascript** e **responsividade**.
 
