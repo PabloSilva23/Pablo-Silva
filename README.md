@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablosilva069/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pablosilvax69@gmail.com)
 
-- 🔥 **Programador junior** buscando a primeira oportunidade na área de programação. 🚀
+- 🔥 **Programador** buscando a primeira oportunidade na área de programação. 🚀
 
 - :man_student: Acadêmico: Analise de sistemas(ADS) pela UNINTER.
 
