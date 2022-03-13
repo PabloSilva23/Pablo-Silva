@@ -14,7 +14,7 @@
 
 - :woman_technologist: Pondo em prática nos meus projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
-
+<!-- 
 ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,5 +24,16 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
 
+
+<div> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-HTML5-40E0D0?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/CSS3-6495ED?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/SASS-FF1493?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Git-B22222?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-markdown-D3D3D3?style=for-the-badge&logo=markdown&logoColor=black" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-vs code-6495ED?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank"></a> 
+ </div> 
