@@ -10,7 +10,7 @@
 
 - :computer: Pretendo atuar na área de **desenvolvimento web Front-end**.
 
-- :books: Atualmente estudando **javascript** e **responsividade**.
+- :books: Atualmente estudando **javascript** e **Node.js**.
 
 - :woman_technologist: Pondo em prática nos meus projetos pessoais [Meu portifólio](https://cocky-bhabha-789e44.netlify.app/).
 
